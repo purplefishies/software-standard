@@ -1,11 +1,11 @@
 
 Adding documents		:books:				📚️
 
-Requirements			:heavy_check_mark:		📝
+Requirements			:memo:				📝
 
 Configuration changes		:wrench:			🔧️
 
-Documentation 			:grenen_book:			📗️
+Documentation 			:green_book:			📗️
 
 Fix tests/ update		:white_check_mark:		✅
 
